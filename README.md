@@ -1,2 +1,2 @@
 # Mr-ideal.github.io
-客人博客
+个人博客
